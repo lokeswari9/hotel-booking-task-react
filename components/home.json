@@ -1,0 +1,23 @@
+[
+    {"image":"../images/img1.jpg",
+     "hotelName":"HOTEL ROYAL INN",
+     "rating":"4",
+     "address":"Electronic City,phase1",
+     "city":"Bangalore",
+     "price":2000
+    },
+    {"image":"../images/img2.jpg",
+     "hotelName":"HOTEL OCTAVE",
+     "rating":"3",
+     "address":"Electronic City,phase2",
+     "city":"chennai",
+     "price":1000
+    },
+    {"image":"../images/img1.jpg",
+     "hotelName":"ROYAL ORCHID SUITES",
+     "rating":"2",
+     "address":"Electronic City,phase1",
+     "city":"Bangalore",
+     "price":2000
+    }
+]
